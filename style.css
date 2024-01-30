@@ -3,3 +3,12 @@ body{
     padding: 0;
     background-color: #aeaeae;
 }
+
+
+h1{
+    text-align: center;
+}
+p{
+    font-size: 18px;
+    text-align: justify;
+}
